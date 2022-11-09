@@ -1,0 +1,2 @@
+<?php
+include('monitoring.php');
